@@ -18,6 +18,9 @@
     "tslib": "^1",
     "yarn-or-npm": "^3.0.1"
   },
+  "resolutions": {
+    "axios": "0.32.0"
+  },
   "devDependencies": {
     "@oclif/dev-cli": "^1",
     "@oclif/plugin-help": "^2",
