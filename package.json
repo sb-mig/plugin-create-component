@@ -19,7 +19,10 @@
     "yarn-or-npm": "^3.0.1"
   },
   "resolutions": {
-    "axios": "0.32.0"
+    "ansi-regex": "5.0.1",
+    "axios": "0.32.0",
+    "cross-spawn": "7.0.6",
+    "minimist": "1.2.8"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1",
